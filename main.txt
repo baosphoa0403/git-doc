@@ -5,3 +5,5 @@ commit C2
 commit C3
 
 commit C4
+
+test squash12
